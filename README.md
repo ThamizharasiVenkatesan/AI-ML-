@@ -1,2 +1,2 @@
 # AI-ML-
-Artificial intelligence and Machine Learning is a vast area with lots of new things to explore .This is my first step towards AI&amp;ML . This repository consists of all my works and experience I gained during this course. 
+Artificial Intelligence and Machine Learning is the technology of future. It has lots of areas to explore, learn and create the technologies of future. It is already in existence and we will move forward and make much more new inventions in AI&ML . This is my first step towards learning about the future scope, AI&ML. This repository consists of my works and project that I made during AI&M
